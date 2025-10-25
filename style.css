@@ -1,3 +1,23 @@
 .center-text {
-	text-aling: center;
+    text-aling: center;
+}
+
+.bestgirl{
+    background-color: green;
+    border: none;
+    border-radius: 6px;
+    color: white;
+    padding: 10px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.uastupid{
+    background-color: red;
+    border: none;
+    border-radius: 6px;
+    color: white;
+    padding: 10px;
+    font-size: 16px;
+    cursor: pointer;
 }
